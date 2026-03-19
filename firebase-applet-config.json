@@ -1,0 +1,11 @@
+{
+  "projectId": "rahee-cards-database",
+  "appId": "1:1024665839933:web:592e9746547b5963fbbd54",
+  "apiKey": "AIzaSyB3mJyIg4iem1MDEeRvl45J0hzTUDaQpAU",
+  "authDomain": "rahee-cards-database.firebaseapp.com",
+  "databaseURL": "https://rahee-cards-database-default-rtdb.firebaseio.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "rahee-cards-database.firebasestorage.app",
+  "messagingSenderId": "1024665839933",
+  "measurementId": ""
+}
